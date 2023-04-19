@@ -20,7 +20,7 @@
 ---
 
 ## Short View of Website
-![Desktop](./screenshot/1stpage.png)
+![Desktop](./src/screenshot/1stpage.png)
 
 ---
 
